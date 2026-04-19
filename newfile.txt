@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Name Page</title>
+</head>
+<body>
+    <h1>Riya Deshmukh</h1>
+    <p>74</p>
+</body>
+</html>
